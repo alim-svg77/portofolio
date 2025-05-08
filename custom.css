@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(141, 141, 250);
+}
+
+.navbar {
+    background-color: #0a8a7b;
+    color: white;
+    display:flex;
+    padding: 15px;
+    margin: 0px 20px;
+    border-radius: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.jamet {
+    font-size: 20px;
+}
+.pp{
+    height: 50px;
+    border-radius: 50%;
+}
+.j-atas{
+    display:flex;
+    gap: 100px;
+}
+.cd {
+    font-size: 50px;
+    color:rgba(15, 2, 86, 0.779)
+}
+.ab {
+    display:flex;
+    padding: 40px 140px;
+    gap: 150px;
+    align-items: center;
+}
+.cc {
+    height : 300px;
+    border-radius: 30%;
+}
+.objective {
+    font-size: 20px;
+    margin: 10px 0px;
+}
+.navabar {
+    background-color: rgb(31, 18, 105);
+}
+.j-bawah {
+    color: aquamarine;
+    text-align: right;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}

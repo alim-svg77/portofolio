@@ -1,0 +1,19 @@
+.navbar {
+    display:flex;
+    background-color: #1B1B1B;
+    color:white;
+    padding:50px;
+    justify-content: center;
+    margin: 0px 100px;
+    border-radius: 20px;
+}
+
+.tombol {
+    display: flex;
+    gap:20px;
+    
+}
+
+.gambar {
+    height: 50px;
+}
